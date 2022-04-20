@@ -7,7 +7,7 @@
 </head>
 </head>
 <body>
-<h1> Hi All, Good Morning...</h1>
+<h1>Good Morning Cloud Computing class </h1>
 <h1>We are team CCZ</h1>
 
 
