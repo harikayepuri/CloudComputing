@@ -8,7 +8,7 @@
 </head>
 <body>
 <h1>Good Morning Cloud Computing class </h1>
-<h1>We are team CCZ</h1>
+
 
 
 
